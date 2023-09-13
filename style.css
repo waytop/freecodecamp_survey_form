@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(90 90 100);
+    color: rgb(255 255 255);
+    font-family: sans-serif;
+  }
+  
+  #container {
+    width: 75%;
+    min-widht: 500px;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .title_style {
+    text-align: center;
+  }
+  
+  .p_style {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  form {
+    background-color: rgb(50 50 50);
+    border-radius: 10px;
+    
+  }
+  
+  fieldset {
+    border: none
+  }
+  
+  label {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .form_control {
+    width: 100%;
+    margin: 5px auto;
+  }
+  
+  form p {
+    margin-bottom: 0;
+  }
+  
+  #dropdown {
+    margin-top: 0;
+  }
+  
+  #link {
+    text-align: center;
+    color: black
+  }
+  
+  a:visited {
+    color: black
+  }
+  
+  button {
+    background-color: green;
+    color: white;
+  }
